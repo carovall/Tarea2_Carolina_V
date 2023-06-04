@@ -2,7 +2,7 @@
 #  copiar y pegar comandos en terminal:
 
 	make
-  make run
+  	make run
   
 #  se muestra por terminal aceleracion maxima y angulo correspondiente.
 # Además, se genera 1 archivo de datos para elaboración del gráfico, 
@@ -12,7 +12,7 @@
 #  copiar y pegar comandos en terminal:
 
 	make
-  make run
+  	make run
 
 # se muestra por terminal valor obtenido de rapidez.
 ------------------------------------------------------------
