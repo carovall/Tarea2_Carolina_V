@@ -17,7 +17,7 @@
 # se muestra por terminal valor obtenido de rapidez.
 ------------------------------------------------------------
 #  PREGUNTA 2:
-#  Para ejecutar el archivo "pregunta1c.c" tipear en terminal el siguiente comando:
+#  copiar y pegar comando en terminal:
   
 	make
 
