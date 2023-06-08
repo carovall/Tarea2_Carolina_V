@@ -56,8 +56,8 @@ int main() {
 
   double tol = 1e-9;
   double error = tol + 1;
-  double  y1_0 = 0.0; //posicion inicial
-  double  y1_1 = 0.1; //"posicion final"???
+  double  y1_0 = 0.0; 
+  double  y1_1 = 0.1; 
   double  y1_2 = 0.0;
 
   // Primera ejecucion
